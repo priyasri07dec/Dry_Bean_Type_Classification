@@ -1,7 +1,7 @@
 # Dry_Bean_Type_Classification
 ### Application Preview
 
-![App]()
+![App](dry_bean_web_page.png)
 
 
 ### Project Overview
